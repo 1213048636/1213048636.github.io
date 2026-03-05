@@ -119,6 +119,10 @@ body {
 .bio {
     color: var(--text-muted);
     margin-bottom: 30px;
+    text-align: left;
+    line-height: 1.8;
+    font-size: 0.95rem;
+    text-indent: 2em;
 }
 
 .hero-buttons {
